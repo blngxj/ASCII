@@ -1,4 +1,10 @@
+#play商店下载  
+#国行安卓 services.googleapis.cn（命中geosite:cn 分配节点cdn） 与 *.xn--ngstr-lra8j.com（命中geosite:Google@cn 实际下载节点） 成功下载需要两个域名同时走直连/代理
+#国际版安卓 下载节点  gvt1.com
+
 payload:
+ - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+ - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
  - DOMAIN-SUFFIX,gamemaps.com
  - DOMAIN-SUFFIX,kiko-play-niptan.one
 
