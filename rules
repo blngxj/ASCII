@@ -1,6 +1,6 @@
 #play商店下载  
-#国行安卓 services.googleapis.cn（命中geosite:cn 分配节点cdn） 与 *.xn--ngstr-lra8j.com（命中geosite:Google@cn 实际下载节点） 成功下载需要两个域名同时走直连/代理
-#国际版安卓 下载节点  gvt1.com
+#国行安卓 分配节点cdn  services.googleapis.cn（命中geosite:cn） 与 实际下载节点  *.xn--ngstr-lra8j.com（命中geosite:Google@cn） 成功下载需要两个域名同时走直连/代理
+#国际版安卓 分配节点 *.googleapis.com  下载节点 *.gvt1.com   （均命中Geosite：Google）
 
 payload:
  - DOMAIN-SUFFIX,services.googleapis.cn
