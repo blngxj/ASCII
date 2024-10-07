@@ -3,6 +3,7 @@
 #国际版安卓 下载节点  gvt1.com
 
 payload:
+ - DOMAIN-SUFFIX,services.googleapis.cn
  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
  - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
  - DOMAIN-SUFFIX,gamemaps.com
