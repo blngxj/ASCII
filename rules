@@ -7,5 +7,5 @@ payload:
  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
  - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
  - DOMAIN-SUFFIX,gamemaps.com
- - DOMAIN-SUFFIX,kiko-play-niptan.one
+# - DOMAIN-SUFFIX,kiko-play-niptan.one
 
