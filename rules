@@ -9,3 +9,4 @@ payload:
  - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
  - DOMAIN,www.gamemaps.com
  - DOMAIN-SUFFIX,hath.network
+ - DOMAIN,game.clashroyaleapp.com # CR 活动切换节点
