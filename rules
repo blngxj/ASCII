@@ -11,3 +11,4 @@ payload:
  - DOMAIN,game.clashroyaleapp.com # CR 活动切换节点
  - DOMAIN,www.raw.kiko-play-niptan.one
  - DOMAIN-SUFFIX,hath.network
+ - DOMAIN-KEYWORD,jmapiproxy
