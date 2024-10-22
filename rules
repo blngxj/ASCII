@@ -2,7 +2,6 @@
 #国行安卓 分配节点cdn  services.googleapis.cn（命中geosite:cn） 与 实际下载节点  *.xn--ngstr-lra8j.com（命中geosite:Google@cn） 成功下载需要两个域名同时走直连/代理
 #国际版安卓 分配节点 *.googleapis.com  下载节点 *.gvt1.com   （均命中Geosite：Google）
 
-
 payload:
  - DOMAIN,www.services.googleapis.cn
  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
@@ -12,3 +11,5 @@ payload:
  - DOMAIN,www.raw.kiko-play-niptan.one
  - DOMAIN-SUFFIX,hath.network
  - DOMAIN-KEYWORD,jmapiproxy
+ - DOMAIN,ba.dn.nexoncdn.co.kr
+
