@@ -3,9 +3,9 @@
 #国际版安卓 分配节点 *.googleapis.com  下载节点 *.gvt1.com   （均命中Geosite：Google）
 # - DOMAIN,www.services.googleapis.cn
 # - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
 
 payload:
- - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
  - DOMAIN,www.gamemaps.com
  - DOMAIN,game.clashroyaleapp.com # CR 活动切换节点
  - DOMAIN,www.raw.kiko-play-niptan.one
