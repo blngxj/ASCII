@@ -3,7 +3,6 @@
 #国际版安卓 分配节点 *.googleapis.com  下载节点 *.gvt1.com   （均命中Geosite：Google）
 # - DOMAIN,www.services.googleapis.cn
 # - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-# - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
 
 payload:
  - DOMAIN,www.gamemaps.com
@@ -12,4 +11,5 @@ payload:
  - DOMAIN-SUFFIX,hath.network
  - DOMAIN-KEYWORD,jmapiproxy
  - DOMAIN,ba.dn.nexoncdn.co.kr
+ - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
 
