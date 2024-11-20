@@ -10,6 +10,4 @@ payload:
  - DOMAIN,raw.kiko-play-niptan.one
  - DOMAIN-SUFFIX,hath.network
  - DOMAIN-KEYWORD,jmapiproxy
- - DOMAIN,ba.dn.nexoncdn.co.kr
  - DOMAIN,nxm-tw-bagl.nexon.com
-# - DOMAIN,jp.livelog.nexon.com	
