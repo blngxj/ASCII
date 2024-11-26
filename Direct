@@ -10,5 +10,5 @@ payload:
  - DOMAIN,raw.kiko-play-niptan.one
  - DOMAIN-SUFFIX,hath.network
  - DOMAIN-KEYWORD,jmapiproxy
- - DOMAIN,nxm-tw-bagl.nexon.com
+# - DOMAIN,nxm-tw-bagl.nexon.com
  - DOMAIN,game.clashroyaleapp.com
