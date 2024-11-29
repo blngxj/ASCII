@@ -7,8 +7,9 @@ payload:
  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
  - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
  - DOMAIN,gamemaps.com
- - DOMAIN,raw.kiko-play-niptan.one
- - DOMAIN-SUFFIX,hath.network
- - DOMAIN-KEYWORD,jmapiproxy
+
+# - DOMAIN,raw.kiko-play-niptan.one
+# - DOMAIN-SUFFIX,hath.network
+# - DOMAIN-KEYWORD,jmapiproxy
 # - DOMAIN,nxm-tw-bagl.nexon.com
- - DOMAIN,game.clashroyaleapp.com
+# - DOMAIN,game.clashroyaleapp.com
