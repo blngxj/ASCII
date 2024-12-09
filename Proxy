@@ -1,3 +1,6 @@
+#  - DOMAIN-SUFFIX,bilibili.com,哔哩哔哩
+#  - DOMAIN-SUFFIX,biliapi.net,哔哩哔哩
+#  - DOMAIN-SUFFIX,biliapi.net,哔哩哔哩
 payload:
  - DOMAIN-SUFFIX,googlevideo.com
  - DOMAIN,wiki.metacubex.one
