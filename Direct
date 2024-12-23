@@ -3,11 +3,11 @@
 #国际版安卓 分配节点 *.googleapis.com  下载节点 *.gvt1.com   （均命中Geosite：Google）
 #steamcloud-sgp.oss-accelerate.aliyuncs.com
 payload:
- - DOMAIN,services.googleapis.cn
- - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
- - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
  - DOMAIN,gamemaps.com
 
+# - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
+# - DOMAIN,services.googleapis.cn
+# - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # - DOMAIN,raw.kiko-play-niptan.one
 # - DOMAIN-SUFFIX,hath.network
 # - DOMAIN-KEYWORD,jmapiproxy
