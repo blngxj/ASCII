@@ -4,6 +4,7 @@
 payload:
  - DOMAIN,gamemaps.com
 
+# - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
 # - DOMAIN,services.googleapis.cn
 # - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # - DOMAIN,raw.kiko-play-niptan.one
