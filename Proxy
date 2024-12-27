@@ -2,6 +2,7 @@
 #  - DOMAIN-SUFFIX,biliapi.net,哔哩哔哩
 #  - DOMAIN-SUFFIX,biliapi.net,哔哩哔哩
 payload:
+ - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
  - DOMAIN-SUFFIX,googlevideo.com
  - DOMAIN,wiki.metacubex.one
  - DOMAIN,bahamut.akamaized.net
