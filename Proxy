@@ -5,4 +5,4 @@ payload:
  - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
  - DOMAIN-SUFFIX,googlevideo.com
  - DOMAIN,wiki.metacubex.one
- - DOMAIN,bahamut.akamaized.net
+# - DOMAIN,bahamut.akamaized.net
