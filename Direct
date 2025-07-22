@@ -5,3 +5,5 @@ payload:
  - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
 # - DOMAIN,gamemaps.com
  - DOMAIN,bahamut.akamaized.net
+ - DOMAIN,services.googleapis.cn
+ - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
