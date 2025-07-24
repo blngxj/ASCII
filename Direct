@@ -8,3 +8,4 @@ payload:
  - DOMAIN,services.googleapis.cn
  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # - DOMAIN-KEYWORD,tiktokcdn
+ - DOMAIN-SUFFIX,jdbstatic.com
