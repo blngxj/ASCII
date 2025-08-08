@@ -12,5 +12,4 @@ payload:
  - DOMAIN,wiki.metacubex.one
  - DOMAIN-SUFFIX,ytimg.com
  - DOMAIN-SUFFIX,twimg.com
- - DOMAIN-SUFFIX,cdninstagram.com
- - DOMAIN-SUFFIX,fbcdn.net
+
