@@ -11,3 +11,4 @@ payload:
  - DOMAIN-SUFFIX,pages.dev
  - DOMAIN,wiki.metacubex.one
  - DOMAIN-SUFFIX,ytimg.com
+ - DOMAIN-SUFFIX,twimg.com
