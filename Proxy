@@ -10,4 +10,4 @@ payload:
  - DOMAIN-SUFFIX,workers.dev
  - DOMAIN-SUFFIX,pages.dev
  - DOMAIN,wiki.metacubex.one
-
+ - DOMAIN-SUFFIX,ytimg.com
