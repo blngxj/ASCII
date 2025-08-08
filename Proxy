@@ -8,5 +8,6 @@
 #国际版安卓 分配节点 *.googleapis.com  下载节点 *.gvt1.com   （均命中Geosite：Google）
 payload:
  - DOMAIN-SUFFIX,workers.dev
+ - DOMAIN-SUFFIX,pages.dev
  - DOMAIN,wiki.metacubex.one
 
