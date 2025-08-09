@@ -8,5 +8,4 @@ payload:
  - DOMAIN,services.googleapis.cn
  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
  - DOMAIN,cloudflare-ech.com
- - DOMAIN,c0.jdbstatic.com
  - DOMAIN-SUFFIX,cloudfront.hls.ttvnw.net
