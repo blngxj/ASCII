@@ -4,13 +4,14 @@
 payload:
 # - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
 # - DOMAIN,gamemaps.com
- - DOMAIN,bahamut.akamaized.net
- - DOMAIN,services.googleapis.cn
- - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
- - DOMAIN,cloudflare-ech.com
- - DOMAIN-SUFFIX,cloudfront.hls.ttvnw.net
+
+# - DOMAIN,bahamut.akamaized.net
+# - DOMAIN,services.googleapis.cn
+# - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# - DOMAIN,cloudflare-ech.com
+# - DOMAIN-SUFFIX,cloudfront.hls.ttvnw.net
 #拦截放行
- - DOMAIN,dns.alidns.com
- - DOMAIM-SUFFIX,msftconnecttest.com
- - DOMAIM-SUFFIX,msftncsi.com
- - DOMAIM-SUFFIX,mtalk.google.com
+# - DOMAIN,dns.alidns.com
+# - DOMAIM-SUFFIX,msftconnecttest.com
+# - DOMAIM-SUFFIX,msftncsi.com
+# - DOMAIM-SUFFIX,mtalk.google.com
