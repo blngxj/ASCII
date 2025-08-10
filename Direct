@@ -13,4 +13,4 @@ payload:
  - DOMAIN,dns.alidns.com
  - DOMAIM-SUFFIX,msftconnecttest.com
  - DOMAIM-SUFFIX,msftncsi.com
- - DOMAIM-SUFFIX,mtalk.google.com
+# - DOMAIM-SUFFIX,mtalk.google.com
