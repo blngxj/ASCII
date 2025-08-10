@@ -11,4 +11,4 @@ payload:
  - DOMAIN-SUFFIX,cloudfront.hls.ttvnw.net
  - DOMAIN,dns.alidns.com
  - DOMAIM,msftconnecttest.com
- - DOMAIM,msftncsi.com
+ - DOMAIM-SUFFIX,msftncsi.com
