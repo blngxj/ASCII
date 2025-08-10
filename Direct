@@ -1,16 +1,15 @@
 #play商店下载  
 #国行安卓 分配节点cdn  services.googleapis.cn（命中geosite:cn） 与 实际下载节点  *.xn--ngstr-lra8j.com（命中geosite:Google@cn） 成功下载需要两个域名同时走直连/代理
 #国际版安卓 分配节点 *.googleapis.com  下载节点 *.gvt1.com   （均命中Geosite：Google）
-payload:
 # - DOMAIN-SUFFIX,oss-accelerate.aliyuncs.com
 # - DOMAIN,gamemaps.com
 
+payload:
 # - DOMAIN,bahamut.akamaized.net
 # - DOMAIN,services.googleapis.cn
 # - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # - DOMAIN,cloudflare-ech.com
 # - DOMAIN-SUFFIX,cloudfront.hls.ttvnw.net
-#拦截放行
  - DOMAIN,dns.alidns.com
  - DOMAIM-SUFFIX,msftconnecttest.com
  - DOMAIM-SUFFIX,msftncsi.com
