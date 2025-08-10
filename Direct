@@ -12,5 +12,5 @@ payload:
 #拦截放行
 
  - DOMAIN,dns.alidns.com
- - DOMAIM,msftconnecttest.com
+ - DOMAIM-SUFFIX,msftconnecttest.com
  - DOMAIM-SUFFIX,msftncsi.com
