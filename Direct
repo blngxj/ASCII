@@ -11,7 +11,5 @@ payload:
  - DOMAIN,cloudflare-ech.com
  - DOMAIN-SUFFIX,cloudfront.hls.ttvnw.net
  - DOMAIN,dns.alidns.com
-
-
-# - DOMAIM-SUFFIX,msftconnecttest.com
-# - DOMAIM-SUFFIX,msftncsi.com
+ - DOMAIN-SUFFIX,msftconnecttest.com
+ - DOMAIN-SUFFIX,msftncsi.com
