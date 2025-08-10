@@ -10,6 +10,7 @@ payload:
  - DOMAIN,cloudflare-ech.com
  - DOMAIN-SUFFIX,cloudfront.hls.ttvnw.net
 #拦截放行
+
  - DOMAIN,dns.alidns.com
  - DOMAIM,msftconnecttest.com
  - DOMAIM,msftncsi.com
