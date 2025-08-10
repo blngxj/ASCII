@@ -5,12 +5,12 @@
 # - DOMAIN,gamemaps.com
 
 payload:
-# - DOMAIN,bahamut.akamaized.net
-# - DOMAIN,services.googleapis.cn
-# - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-# - DOMAIN,cloudflare-ech.com
-# - DOMAIN-SUFFIX,cloudfront.hls.ttvnw.net
- - DOMAIN,dns.alidns.com
- - DOMAIM-SUFFIX,msftconnecttest.com
- - DOMAIM-SUFFIX,msftncsi.com
+ - DOMAIN,bahamut.akamaized.net
+ - DOMAIN,services.googleapis.cn
+ - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+ - DOMAIN,cloudflare-ech.com
+ - DOMAIN-SUFFIX,cloudfront.hls.ttvnw.net
+# - DOMAIN,dns.alidns.com
+# - DOMAIM-SUFFIX,msftconnecttest.com
+# - DOMAIM-SUFFIX,msftncsi.com
 # - DOMAIM-SUFFIX,mtalk.google.com
