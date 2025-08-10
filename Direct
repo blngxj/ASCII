@@ -10,8 +10,8 @@ payload:
  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
  - DOMAIN,cloudflare-ech.com
  - DOMAIN-SUFFIX,cloudfront.hls.ttvnw.net
- - DOMAIM-SUFFIX,msftconnecttest.com
- - DOMAIM-SUFFIX,msftncsi.com
  - DOMAIN,dns.alidns.com
 
 
+# - DOMAIM-SUFFIX,msftconnecttest.com
+# - DOMAIM-SUFFIX,msftncsi.com
