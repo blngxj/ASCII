@@ -1,3 +1,5 @@
+#Forked From  https://github.com/LoopDns/Fuck-you-MIUI
+
 #此处主要屏蔽小米云扫描组件
 log.avlyun.sec.intl.miui.com
 update.avlyun.sec.miui.com
