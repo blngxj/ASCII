@@ -1,3 +1,5 @@
+#load-banlace
+
 payload:
  - DOMAIN-SUFFIX,googlevideo.com
  - DOMAIN-SUFFIX,cdninstagram.com
