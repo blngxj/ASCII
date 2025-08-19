@@ -2,6 +2,6 @@
 
 payload:
  - DOMAIN,dns.alidns.com
- - DOMAIN-SUFFIX,msftconnecttest.com
- - DOMAIN-SUFFIX,msftncsi.com
- - DOMAIN,data.bilibili.com
+# - DOMAIN-SUFFIX,msftconnecttest.com
+# - DOMAIN-SUFFIX,msftncsi.com
+# - DOMAIN,data.bilibili.com
