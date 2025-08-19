@@ -6,4 +6,5 @@
 #国际版安卓 分配节点 *.googleapis.com  下载节点 *.gvt1.com   （均命中Geosite：Google）
 
 payload:
-
+ - DOMAIN,cloudflare-ech.com
+ - DOMAIN,c0.jdbstatic
