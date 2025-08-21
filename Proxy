@@ -6,5 +6,3 @@ payload:
  - DOMAIN,wiki.metacubex.one
  - DOMAIN-SUFFIX,ytimg.com
  - DOMAIN-SUFFIX,twimg.com
- - DOMAIN,returnyoutubedislikeapi.com
- - DOMAIN,sponsor.ajay.app
